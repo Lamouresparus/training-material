@@ -20,7 +20,6 @@
       "url": "https://training.galaxyproject.org/training-material/api/contributors/Love.json"
     }
   ],
-  "subtopic": "upload",
   "url": "/topics/galaxy-interface/tutorials/sharing_data/slides.html",
   "topic_name": "galaxy-interface",
   "tutorial_name": "sharing_data"
