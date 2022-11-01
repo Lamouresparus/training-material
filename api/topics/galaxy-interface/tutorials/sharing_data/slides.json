@@ -1,0 +1,27 @@
+{
+  "layout": "tutorial_slides",
+  "logo": "GTN",
+  "redirect_from": [
+    "/topics/galaxy-data-manipulation/tutorials/get-data/slides"
+  ],
+  "title": "Sharing data from Galaxy",
+  "zenodo_link": "",
+  "questions": [
+    "How do I get a sharable link from Galaxy?",
+    "How do I share data using a web link?",
+    "How do I publish data so everyone can see it from the Shared Data menu?"
+  ],
+  "objectives": null,
+  "time_estimation": null,
+  "key_points": null,
+  "contributors": [
+    {
+      "id": "Love",
+      "url": "https://training.galaxyproject.org/training-material/api/contributors/Love.json"
+    }
+  ],
+  "subtopic": "upload",
+  "url": "/topics/galaxy-interface/tutorials/sharing_data/slides.html",
+  "topic_name": "galaxy-interface",
+  "tutorial_name": "sharing_data"
+}
